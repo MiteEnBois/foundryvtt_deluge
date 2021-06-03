@@ -1,11 +1,13 @@
 {
-    "name": "deluge",
-    "title": "Deluge",
-    "description": "Simple module to implement Deluge gameplay",
-    "author": "Tim",
-    "version": "0.0.1",
-    "minimumCoreVersion": "0.5.0",
-    "scripts": [
-        "scripts/test.js"
-      ]
-  }
+	"name" : "deluge",
+	"title" : "Deluge",
+	"description" : "Simple module to implement Deluge gameplay",
+	"author" : "Tim",
+	"version" : "",
+	"minimumCoreVersion" : "0.8.0",
+	"compatibleCoreVersion": "0.8.6",
+	"scripts" : ["scripts/test.js"],
+	"url" : "https://github.com/MiteEnBois/foundryvtt_deluge",
+	"manifest" : "",
+	"download" : "https://github.com/MiteEnBois/foundryvtt_deluge/archive/refs/tags/v0.0.1.zip"
+}
