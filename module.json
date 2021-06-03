@@ -1,0 +1,11 @@
+{
+    "name": "deluge",
+    "title": "Deluge",
+    "description": "Simple module to implement Deluge gameplay",
+    "author": "Tim",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": [
+        "scripts/test.js"
+      ]
+  }
